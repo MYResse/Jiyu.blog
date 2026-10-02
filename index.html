@@ -3,9 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>纪遇的花园</title>
+<title>纪遇的花园 · 记录生活、读书与学习</title>
 <meta name="description" content="纪遇的花园：记录生活随笔、读书笔记、技术学习与英语语言学的小天地。">
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.css">
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -13,14 +15,36 @@
   <header class="site-header" id="site-header"></header>
   <main>
     <section class="hero">
-      <h1 class="hero-title">纪遇的花园</h1>
-      <p class="hero-sub">在这里，种下生活随笔、读书笔记，和一点点语言学的好奇心。</p>
-      <div class="hero-line"></div>
+      <div class="home-name"><h1>纪遇的花园</h1><span class="home-dot" title="花园营业中"></span></div>
+      <div class="home-introduction">
+        <p>你好，我是纪遇。这里种着生活随笔、读书笔记，和一点点语言学的好奇心。</p>
+        <p>慢慢写，慢慢长——愿你在这里遇见喜欢的文字。</p>
+      </div>
+      <div class="hero-count" id="hero-count">正在统计……</div>
     </section>
-    <div class="filter-bar" id="filter-bar"></div>
-    <ul class="post-list" id="post-list">
-      <li class="placeholder">正在加载文章……</li>
-    </ul>
+
+    <section class="section" id="featured">
+      <div class="section-header">
+        <span class="section-tag"><span class="section-tag-index">01</span><span class="section-tag-label">精选文章</span></span>
+        <a class="view-all" href="archives.html">全部文章 →</a>
+      </div>
+      <div class="card-grid" id="featured-grid"><p class="placeholder">正在加载……</p></div>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <span class="section-tag"><span class="section-tag-index">02</span><span class="section-tag-label">最近更新</span></span>
+        <a class="view-all" href="archives.html">归档 →</a>
+      </div>
+      <ul class="post-list" id="post-list"><li class="placeholder">正在加载……</li></ul>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
+        <span class="section-tag"><span class="section-tag-index">03</span><span class="section-tag-label">Sparks · 随想</span></span>
+      </div>
+      <div id="sparks"><p class="placeholder">正在加载……</p></div>
+    </section>
   </main>
   <footer class="site-footer" id="site-footer"></footer>
 </div>

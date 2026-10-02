@@ -27,7 +27,8 @@ for (const file of readdirSync(postsDir).filter((f) => f.endsWith(".md"))) {
     title: meta.title || file,
     date: meta.date || "1970-01-01",
     tags: meta.tags || [],
-    summary: meta.summary || ""
+    summary: meta.summary || "",
+    featured: meta.featured === "true"
   });
 }
 posts.sort((a, b) => {
