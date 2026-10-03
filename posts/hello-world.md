@@ -1,9 +1,10 @@
 ---
 title: 你好，世界：花园的第一篇
 date: 2026-10-02
-featured: true
 tags: [随笔]
 summary: 为什么开这个博客？第一篇文字，写给未来的自己，也写给你。
+featured: true
+slug: hello-world
 ---
 
 你好呀，欢迎来到**纪遇的花园**。
