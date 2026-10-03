@@ -21,7 +21,7 @@
   },
   {
     "slug": "english-vowel-shift",
-    "title": "为什么英语的拼写和发音对不上？——聊聊\"元音大推移\"",
+    "title": "为什么英语的拼写和发音对不上？——聊聊\"元音大推移",
     "date": "2026-10-01",
     "tags": [
       "英语语言学",
@@ -37,7 +37,1103 @@
     "tags": [
       "读书笔记"
     ],
-    "summary": "\"重要的东西，用眼睛是看不见的。\"重读《小王子》的一点感想。",
+    "summary": "重要的东西，用眼睛是看不见的。\"重读《小王子》的一点感想。",
+    "featured": false
+  },
+  {
+    "slug": "public-and-private-writing",
+    "title": "公开写作和私人写作",
+    "date": "2026-09-19",
+    "tags": [],
+    "summary": "用朋友圈写博客——公开写作与私人写作的地带",
+    "featured": false
+  },
+  {
+    "slug": "vlogs-and-daily-writing-discussions",
+    "title": "Vlog 与日常写作讨论",
+    "date": "2026-09-16",
+    "tags": [],
+    "summary": "2026年9月16日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "how-to-practice-speaking-in-a-stupid-way",
+    "title": "如何用笨方法练习口语",
+    "date": "2026-09-13",
+    "tags": [],
+    "summary": "2026年9月13日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "the-dumbest-way-to-practice-spoken-english-i-haven-t-mastere",
+    "title": "英语口语练习最笨的方法，我一直没掌握好",
+    "date": "2026-09-12",
+    "tags": [],
+    "summary": "2026年9月13日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "use-obsidian-as-a-tool",
+    "title": "把Obsidian当成工具来使用",
+    "date": "2026-09-08",
+    "tags": [],
+    "summary": "2026年9月8日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "i-thought-i-had-covid-19-i-didn-t-think-it-was-the-flu",
+    "title": "我以为我得了新冠，没想到是流感",
+    "date": "2026-08-10",
+    "tags": [],
+    "summary": "2026年8月10日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "host-s-sofa-and-library-s-notebook-of-the-dead-house",
+    "title": "房东的沙发和图书馆的《死屋手记》",
+    "date": "2026-07-30",
+    "tags": [],
+    "summary": "2026年7月30日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "how-can-overtime-come-out-of-my-mouth",
+    "title": "加班怎么会从我的嘴巴说出？",
+    "date": "2026-07-16",
+    "tags": [],
+    "summary": "2026年7月16日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "my-fourth-keyboard",
+    "title": "我的第四副键盘",
+    "date": "2026-07-14",
+    "tags": [],
+    "summary": "2026年7月14日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "how-to-improve-your-english-reading-vocabulary-with-ai",
+    "title": "如何用AI提高英语阅读词汇量",
+    "date": "2026-07-08",
+    "tags": [],
+    "summary": "2026年7月8日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "late-night-dreamless-juvenile-affairs",
+    "title": "夜深忽梦少年事",
+    "date": "2026-07-02",
+    "tags": [],
+    "summary": "2026年7月3日 星期五",
+    "featured": false
+  },
+  {
+    "slug": "some-people-live-their-lives-like-a-van-gogh-painting",
+    "title": "有的人一生就像是一幅幅梵高的画",
+    "date": "2026-07-01",
+    "tags": [],
+    "summary": "2026年7月1日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "i-forgot-the-word-i-checked-again-what-should-i-do-if-i-chec",
+    "title": "查的单词又忘了，经常查了又忘怎么办？",
+    "date": "2026-06-30",
+    "tags": [],
+    "summary": "2026年6月30日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "self-learning-english-what-should-be-the-goal",
+    "title": "自主学习英语，应该以什么为目标",
+    "date": "2026-06-29",
+    "tags": [],
+    "summary": "2026年6月29日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "after-work-i-keep-typing-in-english-like-this",
+    "title": "上班之后，我这样保持英语输入",
+    "date": "2026-06-28",
+    "tags": [],
+    "summary": "2026年6月28日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "if-i-m-40-years-old-and-older-i-don-t-have-low-self-esteem",
+    "title": "假如我四十岁“年长有为”不自卑",
+    "date": "2026-06-21",
+    "tags": [],
+    "summary": "2026年6月21日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "i-have-a-lot-of-unused-pens-and-notebooks",
+    "title": "我有很多没有用完的笔和本子",
+    "date": "2026-06-13",
+    "tags": [],
+    "summary": "2026年6月13日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "the-best-way-to-improve-your-mobility",
+    "title": "提高行动力最好的方法",
+    "date": "2026-06-11",
+    "tags": [],
+    "summary": "2026年6月11日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "handbook-for-people-with-weak-energy",
+    "title": "弱精力人群手册指南",
+    "date": "2026-06-03",
+    "tags": [],
+    "summary": "2026年6月3日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "bai-xiang-jiyu-my-public-account-new-id",
+    "title": "百象纪遇，我的公众号新ID",
+    "date": "2026-05-24",
+    "tags": [],
+    "summary": "2026年5月24日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "shenzhen-apartment-hunting",
+    "title": "00后来深圳找工作 租房篇",
+    "date": "2026-05-21",
+    "tags": [],
+    "summary": "2026年5月21日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "i-gave-up-on-the-tidal-wave-even-though-it-was-excellent",
+    "title": "我放弃了玩鸣潮，尽管它很优秀",
+    "date": "2026-05-12",
+    "tags": [],
+    "summary": "2026年5月12日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "shenzhen-job-hunting",
+    "title": "00后来深圳找工作 求职篇",
+    "date": "2026-05-10",
+    "tags": [],
+    "summary": "2026年5月10日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "2025-official-account-article-collection",
+    "title": "2025年公众号文章合集",
+    "date": "2026-05-05",
+    "tags": [],
+    "summary": "2026年5月5日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "will-the-world-be-better-in-ten-years",
+    "title": "10年后，这个世界会更好吗 人文十问",
+    "date": "2026-05-03",
+    "tags": [],
+    "summary": "2026年5月3日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "today-s-fish-is-exceptionally-delicious",
+    "title": "今天的鱼肉格外鲜美",
+    "date": "2026-05-01",
+    "tags": [],
+    "summary": "2026年5月1日 星期五",
+    "featured": false
+  },
+  {
+    "slug": "i-mistakenly-deleted-10-years-of-music-files",
+    "title": "我误删了10年来的音乐文件",
+    "date": "2026-04-28",
+    "tags": [],
+    "summary": "2026年4月29日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "riding-a-bike-is-really-cozy",
+    "title": "骑单车真是一种惬意",
+    "date": "2026-04-26",
+    "tags": [],
+    "summary": "2026年4月26日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "i-need-to-sleep-more-in-shenzhen",
+    "title": "在深圳我就要多睡觉",
+    "date": "2026-04-22",
+    "tags": [],
+    "summary": "2026年4月22日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "why-do-you-read-so-many-books-and-get-nowhere",
+    "title": "为什么读了这么多书却一事无成",
+    "date": "2026-04-18",
+    "tags": [],
+    "summary": "2026年4月18日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "world-book-day-2026",
+    "title": "世界读书日2026年",
+    "date": "2026-04-17",
+    "tags": [],
+    "summary": "2026年4月17日 星期五",
+    "featured": false
+  },
+  {
+    "slug": "excellent-doesn-t-need-to-be-compared",
+    "title": "优秀是不需要去比较的",
+    "date": "2026-04-16",
+    "tags": [],
+    "summary": "2026年4月16日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "back-in-shenzhen-some-of-my-feelings",
+    "title": "重返深圳，我的一些感受",
+    "date": "2026-04-11",
+    "tags": [],
+    "summary": "2026年4月11日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "i-solved-my-learning-anxiety-with-ai",
+    "title": "我用AI解决了学习焦虑",
+    "date": "2026-04-06",
+    "tags": [],
+    "summary": "我用AI解决了学习焦虑",
+    "featured": false
+  },
+  {
+    "slug": "we-re-not-on-the-same-channel",
+    "title": "我们并不处于同频的频道",
+    "date": "2026-04-03",
+    "tags": [],
+    "summary": "2026年4月3日 星期五",
+    "featured": false
+  },
+  {
+    "slug": "building-commercialization-is-the-most-worthwhile-thing-to-d",
+    "title": "构建商业化，是最值得做的事情",
+    "date": "2026-03-30",
+    "tags": [],
+    "summary": "构建商业化，是最值得做的事情",
+    "featured": false
+  },
+  {
+    "slug": "i-don-t-know-what-second-hand-trading-is",
+    "title": "我不知道什么是二手交易",
+    "date": "2026-03-28",
+    "tags": [],
+    "summary": "2026年3月28日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "three-thoughts-on-sorting-out-university-materials",
+    "title": "整理大学资料三个思考",
+    "date": "2026-03-23",
+    "tags": [],
+    "summary": "2026年3月23日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "mingchao-3-2-first-half-of-the-main-storyline-in-the-rules-a",
+    "title": "鸣潮3.2上半剧情主线，中规中矩",
+    "date": "2026-03-21",
+    "tags": [],
+    "summary": "2026年3月21日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "what-are-you-doing-with-ai",
+    "title": "你在用 AI 做什么",
+    "date": "2026-03-20",
+    "tags": [],
+    "summary": "2026年3月20日 星期五：你在用 AI 做什么",
+    "featured": false
+  },
+  {
+    "slug": "record-a-leak-upstairs-to-fix-the-plumbing",
+    "title": "记录一次楼上漏水修水管事情",
+    "date": "2026-03-15",
+    "tags": [],
+    "summary": "2026年3月15日 星期日：记录一次楼上漏水修水管事情",
+    "featured": false
+  },
+  {
+    "slug": "from-the-biochemical-crisis-series-see-the-good-games-in-my-",
+    "title": "从生化危机系列，看我眼中的好游戏",
+    "date": "2026-03-04",
+    "tags": [],
+    "summary": "从生化危机系列，看我眼中的好游戏",
+    "featured": false
+  },
+  {
+    "slug": "lin-zhonglu-towards-a-better-self",
+    "title": "林中路：走向更好的自己",
+    "date": "2026-03-01",
+    "tags": [],
+    "summary": "林中路：走向更好的自己",
+    "featured": false
+  },
+  {
+    "slug": "small-changes-are-not-useless",
+    "title": "微小改变并非毫无用处",
+    "date": "2026-02-23",
+    "tags": [],
+    "summary": "2026年2月23日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "how-to-recover-quickly-after-the-spring-festival",
+    "title": "春节后怎么快速恢复状态",
+    "date": "2026-02-22",
+    "tags": [],
+    "summary": "2026年2月22日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "the-first-habit-i-want-to-build-this-year-is-going-out-for-a",
+    "title": "今年我想培养第一个习惯是外出走走",
+    "date": "2026-02-18",
+    "tags": [],
+    "summary": "2026年2月18日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "2024-official-account-article-collection",
+    "title": "2024年公众号文章合集",
+    "date": "2026-02-12",
+    "tags": [],
+    "summary": "2026年2月12日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "each-unhappy-family-is-unhappy-in-its-own-way",
+    "title": "不幸的家庭各有各的不幸",
+    "date": "2026-02-12",
+    "tags": [],
+    "summary": "2026年2月12日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "2023-official-account-article-collection",
+    "title": "2023年公众号文章合集",
+    "date": "2026-02-11",
+    "tags": [],
+    "summary": "2026年2月11日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "2022-official-account-article-collection",
+    "title": "2022年公众号文章合集",
+    "date": "2026-02-10",
+    "tags": [],
+    "summary": "2026年2月10日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "what-would-you-choose-as-your-screen-name-in-2026",
+    "title": "2026年，你会选择什么作为你的网名？",
+    "date": "2026-02-09",
+    "tags": [],
+    "summary": "2026年2月9日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "a-set-of-schemes-that-let-me-clarify-different-information-s",
+    "title": "一套让我厘清各个领域不同信息搜索归纳整理方案",
+    "date": "2026-02-08",
+    "tags": [],
+    "summary": "2026年2月8日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "unlock-3-efficient-learning-tips-with-typeless",
+    "title": "用Typeless解锁三个高效学习技巧",
+    "date": "2026-01-31",
+    "tags": [],
+    "summary": "2026年1月31日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "watching-documentaries-and-using-typeless",
+    "title": "看纪录片和使用 Typeless 一些感想",
+    "date": "2026-01-28",
+    "tags": [],
+    "summary": "2026年1月28日 星期三：看纪录片和使用 Typeless 一些感想",
+    "featured": false
+  },
+  {
+    "slug": "nothing-transcends-beauty",
+    "title": "没有什么事情是超越美的",
+    "date": "2026-01-27",
+    "tags": [],
+    "summary": "2026年1月27日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "think-of-doing-your-own-media-as-a-hobby",
+    "title": "把做自媒体当成一个爱好",
+    "date": "2026-01-25",
+    "tags": [],
+    "summary": "2026年1月25日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "life-s-self-imposed-exile",
+    "title": "生命的自我放逐",
+    "date": "2026-01-24",
+    "tags": [],
+    "summary": "2026年1月24日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "recommended-e-book-software-on-two-computers",
+    "title": "推荐两个电脑上电子书软件",
+    "date": "2026-01-20",
+    "tags": [],
+    "summary": "2026年1月20日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "i-used-this-program-to-fully-squeeze-out-the-past-year",
+    "title": "我用这套方案来全面榨干过去的一年",
+    "date": "2026-01-17",
+    "tags": [],
+    "summary": "2026年1月17日 星期六：我用这套方案来全面榨干过去的一年",
+    "featured": false
+  },
+  {
+    "slug": "nothing-is-more-boring-than-a-romantic-drama",
+    "title": "没有什么比一部上头的恋爱剧更解闷了",
+    "date": "2026-01-16",
+    "tags": [],
+    "summary": "2026年1月17日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "on-three-days-off-this-is-my-job-at-home-when-i-m-unemployed",
+    "title": "上三休一，这是我失业在家的作息",
+    "date": "2026-01-15",
+    "tags": [],
+    "summary": "2026年1月15日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "daily-question-and-answer-english-speaking-practice-summary-",
+    "title": "豆包每天自问自答之英语口语练习总结",
+    "date": "2026-01-14",
+    "tags": [],
+    "summary": "2026年1月13日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "what-is-the-big-explosion-of-filial-piety",
+    "title": "什么叫孝心大爆炸啊",
+    "date": "2026-01-12",
+    "tags": [],
+    "summary": "2026年1月12日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "looking-through-the-notes-in-the-past-i-got-three-impression",
+    "title": "翻看过去笔记，我得到了三个感悟",
+    "date": "2026-01-10",
+    "tags": [],
+    "summary": "2026年1月10日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "after-organizing-the-room-for-8-years-i-saw-the-past",
+    "title": "整理完8年的房间，我看到了过去",
+    "date": "2026-01-09",
+    "tags": [],
+    "summary": "2026年1月9日 星期五",
+    "featured": false
+  },
+  {
+    "slug": "wealthy-undeserved-bastards",
+    "title": "有钱不赚王八蛋",
+    "date": "2026-01-06",
+    "tags": [],
+    "summary": "2026年1月6日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "digital-garden-in-a-net-plate",
+    "title": "网盘里的数字花园",
+    "date": "2026-01-04",
+    "tags": [],
+    "summary": "文章：网盘里的数字花园",
+    "featured": false
+  },
+  {
+    "slug": "live-like-a-whale",
+    "title": "像鲸鱼一样生活",
+    "date": "2026-01-03",
+    "tags": [],
+    "summary": "2026年1月3日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "because-of-knowing-so-compassion",
+    "title": "因为懂得，所以慈悲",
+    "date": "2025-12-23",
+    "tags": [],
+    "summary": "2025年12月23日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "come-to-shenzhen-for-half-a-year-ready-to-go-home",
+    "title": "来深圳半年，准备回家了",
+    "date": "2025-12-22",
+    "tags": [],
+    "summary": "2025年12月22日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "chat-with-yourself",
+    "title": "和自己聊聊天",
+    "date": "2025-12-18",
+    "tags": [],
+    "summary": "2025年12月18日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "obsidian-card-management-optimization-and-some-plugins",
+    "title": "Obsidian 卡片管理优化和一些插件",
+    "date": "2025-12-16",
+    "tags": [],
+    "summary": "2025年12月16日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "40-questions-briefly-review-2025",
+    "title": "40个问题简单回顾2025年",
+    "date": "2025-12-15",
+    "tags": [],
+    "summary": "2025年12月15日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "some-thoughts-on-different-sectors-of-english-learning",
+    "title": "英语学习不同板块的一些思考",
+    "date": "2025-12-14",
+    "tags": [],
+    "summary": "2025年12月14日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "claymore",
+    "title": "《大剑》",
+    "date": "2025-12-11",
+    "tags": [],
+    "summary": "2025年12月17日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "2025-is-the-hardest-year-to-find-a-job",
+    "title": "2025年是找工作是最难的一年",
+    "date": "2025-12-10",
+    "tags": [],
+    "summary": "2025年12月10日 星期三",
+    "featured": false
+  },
+  {
+    "slug": "add-some-energy-to-your-life",
+    "title": "给生活补充一些能量",
+    "date": "2025-12-08",
+    "tags": [],
+    "summary": "2025年12月8日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "writing-process-optimization",
+    "title": "写作流程优化",
+    "date": "2025-12-07",
+    "tags": [],
+    "summary": "2025年12月7日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "two-worthless-gadgets-bought-on-taobao",
+    "title": "淘宝上买的两个不值钱的小玩意",
+    "date": "2025-12-06",
+    "tags": [],
+    "summary": "2025年12月6日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "if-i-get-stuck-i-ll-try-the-side-quest",
+    "title": "如果我卡壳了，我会试试支线任务",
+    "date": "2025-12-01",
+    "tags": [],
+    "summary": "2025年12月1日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "yesterday-i-left-my-job-today-i-caught-a-cold",
+    "title": "昨天我离职了，今天我感冒了",
+    "date": "2025-11-29",
+    "tags": [],
+    "summary": "2025年11月29日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "no-more-than-3-minutes-on-the-phone-with-seniors",
+    "title": "和长辈打电话不超过3分钟",
+    "date": "2025-11-23",
+    "tags": [],
+    "summary": "2025年11月24日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "notes-and-folders-organizing-belongs-to-the-individual-s-top",
+    "title": "笔记和文件夹整理 属于个体的绝招",
+    "date": "2025-09-24",
+    "tags": [],
+    "summary": "2025年9月29日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "use-project-management-thinking-to-advance-life-goals",
+    "title": "用项目管理思维来推进生活目标",
+    "date": "2025-09-21",
+    "tags": [],
+    "summary": "2025年9月21日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "learning-english-is-fun-for-me",
+    "title": "我学英语就是好玩",
+    "date": "2025-09-14",
+    "tags": [],
+    "summary": "2025年9月15日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "a-guide-for-graduates-to-find-jobs-in-big-cities",
+    "title": "毕业生来大城市找工作指南",
+    "date": "2025-07-25",
+    "tags": [],
+    "summary": "2025年7月27日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "returning-to-writing-doing-long-termism-and-cyclism",
+    "title": "回归写作，做长期主义和周期主义",
+    "date": "2025-07-05",
+    "tags": [],
+    "summary": "2025年7月16日 星期三：回归写作，做长期主义和周期主义",
+    "featured": false
+  },
+  {
+    "slug": "disorienting-after-a-nap",
+    "title": "午睡后的迷茫感",
+    "date": "2025-05-30",
+    "tags": [],
+    "summary": "2025年5月30日 星期五",
+    "featured": false
+  },
+  {
+    "slug": "my-four-years-of-two-college-life",
+    "title": "我的四年二本大学生活",
+    "date": "2025-05-29",
+    "tags": [],
+    "summary": "2025年5月29日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "how-to-choose-the-right-english-learning-materials",
+    "title": "如何选择合适的英语学习材料",
+    "date": "2025-05-20",
+    "tags": [],
+    "summary": "2025年5月20日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "bakery-encounters",
+    "title": "面包店的相遇",
+    "date": "2025-05-13",
+    "tags": [],
+    "summary": "2025年5月13日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "how-organics-become-newsletters-for-life",
+    "title": "有机物是如何变成生命的 电子报",
+    "date": "2025-05-13",
+    "tags": [],
+    "summary": "2025年5月13日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "how-cooking-works",
+    "title": "做菜原理",
+    "date": "2025-04-21",
+    "tags": [],
+    "summary": "2025年4月21日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "examination-english-and-self-study-english",
+    "title": "考试英语和自学英语",
+    "date": "2025-04-20",
+    "tags": [],
+    "summary": "2025年4月22日 星期二 文章：自学英语的第一步",
+    "featured": false
+  },
+  {
+    "slug": "recommended-books-on-history-geography-and-archaeology",
+    "title": "历史学、地理学和考古学书籍推荐",
+    "date": "2025-04-18",
+    "tags": [],
+    "summary": "2025年4月18日 星期五",
+    "featured": false
+  },
+  {
+    "slug": "what-makes-a-good-teacher",
+    "title": "什么塑造一个好老师",
+    "date": "2025-04-13",
+    "tags": [],
+    "summary": "2025年4月19日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "my-love-of-learning-english",
+    "title": "我对英语学习的热爱",
+    "date": "2025-04-10",
+    "tags": [],
+    "summary": "2025年4月19日 星期六",
+    "featured": false
+  },
+  {
+    "slug": "learn-english-with-game-plot",
+    "title": "利用游戏剧情学习英语",
+    "date": "2025-04-03",
+    "tags": [],
+    "summary": "2025年4月8日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "irrational-emotional-expression",
+    "title": "非理性情绪表达",
+    "date": "2025-04-02",
+    "tags": [],
+    "summary": "文章：非理性情绪表达 | 电子报004",
+    "featured": false
+  },
+  {
+    "slug": "what-i-can-think-of-about-ai",
+    "title": "关于AI，我所能想到的事",
+    "date": "2025-03-18",
+    "tags": [],
+    "summary": "2025年3月24日 星期一",
+    "featured": false
+  },
+  {
+    "slug": "how-i-managed-2-000-notes-in-four-years-with-obsidian",
+    "title": "使用Obsidian四年我是怎么管理2000条笔记的",
+    "date": "2025-03-16",
+    "tags": [],
+    "summary": "2025年3月16日 星期日",
+    "featured": false
+  },
+  {
+    "slug": "managing-bills-in-the-garden-of-life",
+    "title": "打理人生花园之账单处理",
+    "date": "2025-03-11",
+    "tags": [],
+    "summary": "2025年3月11日 星期二",
+    "featured": false
+  },
+  {
+    "slug": "share-a-way-to-look-up-words",
+    "title": "分享一个查单词方法",
+    "date": "2023-09-29",
+    "tags": [],
+    "summary": "Reference：2023-09-29",
+    "featured": false
+  },
+  {
+    "slug": "the-essence-of-language-learning-is-to-love-life-and-know-th",
+    "title": "语言学习的本质是热爱生活 知乎回答",
+    "date": "2023-09-21",
+    "tags": [],
+    "summary": "Reference：2023-09-21",
+    "featured": false
+  },
+  {
+    "slug": "show-gallery",
+    "title": "相册展示",
+    "date": "2023-08-30",
+    "tags": [],
+    "summary": "Reference：2023-08-30",
+    "featured": false
+  },
+  {
+    "slug": "a-pure-woman",
+    "title": "一个纯洁的女人",
+    "date": "2023-08-24",
+    "tags": [],
+    "summary": "Reference：2023-08-24",
+    "featured": false
+  },
+  {
+    "slug": "brain-and-complexity",
+    "title": "大脑和复杂性",
+    "date": "2023-08-13",
+    "tags": [],
+    "summary": "Reference：2023-08-14",
+    "featured": false
+  },
+  {
+    "slug": "some-japanese-magazines-recommend",
+    "title": "一番日语杂志推荐",
+    "date": "2023-08-05",
+    "tags": [],
+    "summary": "Reference：2023-08-05",
+    "featured": false
+  },
+  {
+    "slug": "build-a-website-do-one-thing",
+    "title": "搭建网站，动手去做一件事",
+    "date": "2023-07-18",
+    "tags": [],
+    "summary": "Reference：2023-07-18",
+    "featured": false
+  },
+  {
+    "slug": "successful-story-narrative-style-discussion",
+    "title": "Successful Story Narrative Style Discussion",
+    "date": "2023-07-18",
+    "tags": [],
+    "summary": "Reference：2023-07-18",
+    "featured": false
+  },
+  {
+    "slug": "inkp-build-pkm-system-prev",
+    "title": "INKP 搭建PKM系统 上篇",
+    "date": "2023-05-22",
+    "tags": [],
+    "summary": "Reference：2023-05-22",
+    "featured": false
+  },
+  {
+    "slug": "staying-weight-loss-my-thoughts",
+    "title": "保持减肥，我的几点思考",
+    "date": "2023-04-30",
+    "tags": [],
+    "summary": "2026年4月30日 星期四",
+    "featured": false
+  },
+  {
+    "slug": "reflection-learn-english-better",
+    "title": "反思：更好地学习英语",
+    "date": "2023-04-21",
+    "tags": [],
+    "summary": "Reference： 2023-04-21",
+    "featured": false
+  },
+  {
+    "slug": "world-book-day",
+    "title": "世界读书日",
+    "date": "2023-04-17",
+    "tags": [],
+    "summary": "Reference：2023-04-17",
+    "featured": false
+  },
+  {
+    "slug": "a-month-view-to-allow-yourself-to-touch-life",
+    "title": "一份月份视图，让自己触摸着生活",
+    "date": "2023-04-04",
+    "tags": [],
+    "summary": "Reference：2023-04-04",
+    "featured": false
+  },
+  {
+    "slug": "english-notes-summary-in-another-way-keep-going",
+    "title": "英语笔记小结 换一种方式继续前进",
+    "date": "2023-04-04",
+    "tags": [],
+    "summary": "Reference：2023-04-04",
+    "featured": false
+  },
+  {
+    "slug": "the-river-of-life",
+    "title": "人生河流",
+    "date": "2023-03-29",
+    "tags": [],
+    "summary": "Reference：2023-03-29",
+    "featured": false
+  },
+  {
+    "slug": "nanyang-spring",
+    "title": "南阳 春天",
+    "date": "2023-03-09",
+    "tags": [],
+    "summary": "Reference：2023-03-10",
+    "featured": false
+  },
+  {
+    "slug": "unity-is-strength",
+    "title": "团结就是力量",
+    "date": "2023-03-07",
+    "tags": [],
+    "summary": "Reference：2023-03-07",
+    "featured": false
+  },
+  {
+    "slug": "e-browser-micro-habits",
+    "title": "E：浏览器 微习惯",
+    "date": "2023-03-04",
+    "tags": [],
+    "summary": "Reference：2023-03-07",
+    "featured": false
+  },
+  {
+    "slug": "english-note-taking-attempts",
+    "title": "英语笔记尝试",
+    "date": "2023-03-04",
+    "tags": [],
+    "summary": "Reference：2023-03-04",
+    "featured": false
+  },
+  {
+    "slug": "browser-usage-microhabits-part-1",
+    "title": "浏览器使用微习惯 上篇",
+    "date": "2023-02-23",
+    "tags": [],
+    "summary": "Reference：2023-01-29",
+    "featured": false
+  },
+  {
+    "slug": "running-record",
+    "title": "跑步记录",
+    "date": "2022-10-13",
+    "tags": [],
+    "summary": "[toc]",
+    "featured": false
+  },
+  {
+    "slug": "what-is-a-good-attitude-to-live-a-life",
+    "title": "什么是过生活的好心态",
+    "date": "2022-09-27",
+    "tags": [],
+    "summary": "[toc]",
+    "featured": false
+  },
+  {
+    "slug": "share-a-few-fun-things",
+    "title": "分享几件开心的事",
+    "date": "2022-09-10",
+    "tags": [],
+    "summary": "最近有不少开心的事，想着把它们给分享出来。加上，文章什么的还没有写出来，好多东西也还在路上。所以，写点这个比较好。",
+    "featured": false
+  },
+  {
+    "slug": "a-point-of-view-to-help-you-get-your-habits-back",
+    "title": "一个帮你找回习惯观点",
+    "date": "2022-08-28",
+    "tags": [],
+    "summary": "[toc]",
+    "featured": false
+  },
+  {
+    "slug": "reading-an-act-of-reflection",
+    "title": "阅读，一种要思考的行为",
+    "date": "2022-08-08",
+    "tags": [],
+    "summary": "Reference：2023-08-09",
+    "featured": false
+  },
+  {
+    "slug": "reading-sharing-session",
+    "title": "阅读分享会",
+    "date": "2022-08-02",
+    "tags": [],
+    "summary": "发现了一次较好的英语阅读分享，可以汇总在这里。",
+    "featured": false
+  },
+  {
+    "slug": "movie-articles",
+    "title": "电影文章",
+    "date": "2022-07-27",
+    "tags": [],
+    "summary": "这个内容是我比较感兴趣的一个主题，和大家一起分享自己平常看的书籍和电影。",
+    "featured": false
+  },
+  {
+    "slug": "learn-english-with-the-ministry-of-foreign-affairs",
+    "title": "跟着外交部学英语",
+    "date": "2022-07-17",
+    "tags": [],
+    "summary": "跟着外交部学语言，我来了",
+    "featured": false
+  },
+  {
+    "slug": "how-do-you-keep-doing-what-you-want-to-do",
+    "title": "如何持续做想做的事情呢？",
+    "date": "2022-07-05",
+    "tags": [],
+    "summary": "what：从生活中的一些小事说起；",
+    "featured": false
+  },
+  {
+    "slug": "summer-vacation-plan",
+    "title": "暑假计划",
+    "date": "2022-06-18",
+    "tags": [],
+    "summary": "2022-06-18",
+    "featured": false
+  },
+  {
+    "slug": "i-bet-you-don-t-have-a-bullet-in-your-gun",
+    "title": "我赌你的枪里没有子弹",
+    "date": "2022-06-13",
+    "tags": [],
+    "summary": "[toc]",
+    "featured": false
+  },
+  {
+    "slug": "three-or-two-things-about-writing",
+    "title": "写作的三两事",
+    "date": "2022-05-07",
+    "tags": [],
+    "summary": "2022-05-07",
+    "featured": false
+  },
+  {
+    "slug": "it-s-new-year-s-eve-what-should-i-do",
+    "title": "该跨年了，我做什么好呢？",
+    "date": "2022-01-09",
+    "tags": [],
+    "summary": "已经是2022年了，虽然还不是正式的过了春节，不过已经有过年的气息来临。平常过年，我们除了去庆祝新的一年到来，还会去整理",
+    "featured": false
+  },
+  {
+    "slug": "tips-for-the-new-year",
+    "title": "跨年的小技巧",
+    "date": "2022-01-03",
+    "tags": [],
+    "summary": "2022年1月3日16:50:59",
+    "featured": false
+  },
+  {
+    "slug": "how-to-be-more-reasonable",
+    "title": "如何更好地讲道理",
+    "date": "2021-09-25",
+    "tags": [],
+    "summary": "2025年5月30日 星期五 发表成文章：如何更好地讲道理（2022年）",
     "featured": false
   }
 ]
