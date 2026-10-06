@@ -118,9 +118,10 @@ function mdInline(text) {
   return t;
 }
 function mdToHtml(src) {
-  const parsed = parseMeta(src);
-  const lines = parsed.body || "";
-  const ls = lines.replace(/\r\n?/g, "\n").split("\n");
+  const meta = parseMeta(src);
+  const fm = src.match(/^\s*---\s*\n[\s\S]*?\n---\s*(?:\n|$)/);
+  const body = fm ? src.slice(fm[0].length) : src;
+  const ls = body.replace(/\r\n?/g, "\n").split("\n");
   const html = [];
   let listType = null;
   let quoteLines = [];
@@ -164,7 +165,7 @@ function mdToHtml(src) {
   }
   closeList(); closeQuote();
   if (codeBuf !== null) html.push("<pre><code>" + escapeHtml(codeBuf.lines.join("\n")) + "</code></pre>");
-  return { meta: parsed, html: html.join("\n") };
+  return { meta: meta, html: html.join("\n") };
 }
 
 function pageHead(title) {
