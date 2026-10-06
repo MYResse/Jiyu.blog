@@ -111,7 +111,13 @@ function escapeHtml(s) {
 function mdInline(text) {
   let t = escapeHtml(text);
   t = t.replace(/\`([^\`\n]+)\`/g, "<code>$1</code>");
-  t = t.replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, '<img src="$2" alt="$1">');
+  t = t.replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, function (match, alt, src) {
+    var a = (alt || "").trim().toLowerCase();
+    var cls = "";
+    if (a === "left" || a === "wrap-left" || a === "l") cls = ' class="img-left"';
+    else if (a === "right" || a === "wrap-right" || a === "r") cls = ' class="img-right"';
+    return '<img src="' + src + '" alt="' + escapeHtml(a) + '"' + cls + '>';
+  });
   t = t.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
   t = t.replace(/\*\*([^*\n]+)\*\*/g, "<strong>$1</strong>");
   t = t.replace(/(^|[^*])\*([^*\n]+)\*/g, "$1<em>$2</em>");
