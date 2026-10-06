@@ -61,7 +61,7 @@ body::before {
 }
 html[data-theme="dark"] body::before { opacity: 0.07; }
 
-.page { max-width: 37.5rem; margin: 0 auto; padding: 2.5rem 1.5rem 3rem; }
+.page { max-width: 50rem; margin: 0 auto; padding: 2.5rem 1.5rem 3rem; }
 
 /* 顶部导航 */
 .site-header {
@@ -339,4 +339,21 @@ html[data-theme="dark"] body::before { opacity: 0.07; }
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--muted);
+}
+
+/* ===== 杂志化阅读（Tranquilpeak 灵感） ===== */
+.post-content { font-size: 1.05rem; line-height: 1.9; }
+.post-content > p:first-of-type::first-letter {
+  font-size: 3.1em;
+  float: left;
+  line-height: 0.9;
+  margin: 0.1em 0.14em 0 0;
+  font-weight: 600;
+}
+.post-content::after { content: ""; display: block; clear: both; }
+.post-content img { display: block; margin: 1.4em auto; }
+.post-content img.img-left { float: left; width: 46%; margin: 0.5em 1.4em 0.8em 0; border-radius: 0.5rem; }
+.post-content img.img-right { float: right; width: 46%; margin: 0.5em 0 0.8em 1.4em; border-radius: 0.5rem; }
+@media (max-width: 560px) {
+  .post-content img.img-left, .post-content img.img-right { float: none; width: 100%; margin: 1.2em auto; display: block; }
 }
