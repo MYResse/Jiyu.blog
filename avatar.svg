@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="60" fill="#1b1a17"/>
+  <circle cx="60" cy="60" r="53" fill="none" stroke="#faf9f5" stroke-width="1.5" opacity="0.35"/>
+  <text x="60" y="77" font-size="52" text-anchor="middle" fill="#faf9f5" font-family="Georgia, serif" font-weight="700">纪</text>
+</svg>
