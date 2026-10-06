@@ -15,20 +15,19 @@
   function renderHeader() {
     var el = document.getElementById("site-header");
     if (!el) return;
-    var file = location.pathname.split("/").pop() || "index.html";
-    var pageParam = new URLSearchParams(location.search).get("page") || "";
+    var path = location.pathname;
+    var file = path.split("/").pop() || "";
     var nav = [
-      { href: "index.html", label: "首页", active: file === "index.html" || file === "" },
-      { href: "index.html#featured", label: "精选", active: false },
-      { href: "archives.html", label: "归档", active: file === "archives.html" },
-      { href: "page.html?page=now", label: "Now", active: file === "page.html" && pageParam === "now" },
-      { href: "page.html?page=about", label: "关于", active: file === "page.html" && pageParam === "about" }
+      { href: "/", label: "首页", active: file === "" || file === "index.html" },
+      { href: "archives", label: "归档", active: file === "archives" },
+      { href: "now", label: "Now", active: file === "now" },
+      { href: "about", label: "关于", active: file === "about" }
     ];
     var links = nav.map(function (n) {
       return '<a class="' + (n.active ? "active" : "") + '" href="' + n.href + '">' + n.label + "</a>";
     }).join("");
     el.innerHTML =
-      '<a class="brand" href="index.html">纪遇的花园</a>' +
+      '<a class="brand" href="/">纪遇的花</a>' +
       '<div class="nav">' + links +
       '<button class="theme-btn" id="theme-btn" type="button" title="切换深色 / 浅色模式">' +
       (theme === "dark" ? "☀" : "☾") + "</button></div>";
@@ -45,10 +44,10 @@
     if (!el) return;
     el.innerHTML =
       '<div class="footer-info">' +
-      "<p>本站由 GitHub Pages 免费托管 · 设计借鉴 xiluluke 的纸感与卡片，排版致敬 DemoChen 的霞鹜文楷，结构参考梁某银的精选与 Sparks。</p>" +
-      '<p><a href="archives.html">归档</a> · <a href="page.html?page=now">Now</a> · <a href="page.html?page=about">关于</a> · <a href="page.html?page=discover">发现</a> · <a href="https://github.com/MYResse/Jiyu.blog" target="_blank" rel="noopener">源代码</a></p>' +
+      "<p>「纪遇的花园」是这座网站的名字——网站是花园，网页里的内容是花。本站由 GitHub Pages 免费托管。</p>" +
+      '<p><a href="archives">归档</a> · <a href="now">Now</a> · <a href="about">关于</a> · <a href="discover">发现</a> · <a href="https://github.com/MYResse/Jiyu.blog" target="_blank" rel="noopener">源代码</a></p>' +
       "</div>" +
-      '<p class="footer-copy">© ' + new Date().getFullYear() + " 纪遇的花园 · 用文字浇灌生活</p>";
+      '<p class="footer-copy">© ' + new Date().getFullYear() + " 纪遇的花 · 开在花园里的文字</p>";
   }
 
   renderHeader();
