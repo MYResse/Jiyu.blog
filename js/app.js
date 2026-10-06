@@ -3,6 +3,7 @@
   var featEl = document.getElementById("featured-grid");
   var sparksEl = document.getElementById("sparks");
   var countEl = document.getElementById("hero-count");
+  var statEl = document.getElementById("stat-posts");
   if (!listEl || !featEl || !sparksEl || !countEl) return;
 
   function fmtRow(d) {
@@ -32,17 +33,20 @@
       });
       var sparks = res[1] || [];
 
-      countEl.textContent = "共 " + posts.length + " 篇文章 · 用文字慢慢浇灌";
+      countEl.textContent = "共 " + posts.length + " 篇文章 · 每一篇都是园中的一朵花";
+      if (statEl) statEl.textContent = String(posts.length);
 
-      // 01 精选文章
+      // 01 精选：四张竖卡
       var featured = posts.filter(function (p) { return p.featured; });
       featEl.innerHTML = featured.length
-        ? featured.slice(0, 4).map(function (p) {
-            return '<a class="post-card" href="/post/' + encodeURIComponent(p.slug) + '">' +
-              '<div class="card-date">' + escapeHtml(fmtCard(p.date)) + "</div>" +
-              '<div class="card-title">' + escapeHtml(p.title) + "</div>" +
-              '<p class="card-summary">' + escapeHtml(p.summary || "") + "</p>" +
-              '<div class="card-tags">' + tagsHtml(p.tags) + "</div>" +
+        ? featured.slice(0, 4).map(function (p, i) {
+            var num = i < 9 ? "0" + (i + 1) : String(i + 1);
+            return '<a class="fc-card" href="/post/' + encodeURIComponent(p.slug) + '">' +
+              '<div class="fc-index">' + num + "</div>" +
+              '<div class="fc-date">' + escapeHtml(fmtCard(p.date)) + "</div>" +
+              '<div class="fc-title">' + escapeHtml(p.title) + "</div>" +
+              '<div class="fc-summary">' + escapeHtml(p.summary || "") + "</div>" +
+              '<div class="fc-tags">' + tagsHtml(p.tags) + "</div>" +
               "</a>";
           }).join("")
         : '<p class="placeholder">还没有精选文章。</p>';
@@ -60,7 +64,7 @@
           "</div></li>";
       }).join("");
 
-      // 03 Sparks 随想
+      // 03 Sparks（左侧贴底）
       var sorted = sparks.slice().sort(function (a, b) { return a.date < b.date ? 1 : -1; });
       sparksEl.innerHTML = sorted.slice(0, 6).map(function (s) {
         return '<div class="spark-item">' +
