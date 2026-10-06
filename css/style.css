@@ -526,3 +526,52 @@ html[data-theme="dark"] body::before { opacity: 0.07; }
   .side-nav { flex-direction: row; flex-wrap: wrap; gap: 0.4rem; }
   .main { padding: 1.8rem 1.25rem 2.5rem; }
 }
+
+/* ===== v5：OceanWP Maria 式简洁顶栏 ===== */
+.layout { display: block; }
+.sidebar { display: none; }
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  padding: 1.05rem 2.5rem;
+}
+.topbar-inner {
+  max-width: 75rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 1.8rem;
+}
+.tb-brand { flex: none; }
+.tb-nav { display: flex; gap: 1.4rem; flex: 1; }
+.tb-nav a { font-size: 0.9rem; color: var(--muted); transition: color 0.15s ease; }
+.tb-nav a:hover { color: var(--fg); }
+.tb-nav a.active { color: var(--fg); font-weight: 600; }
+.tb-right { display: flex; align-items: center; gap: 1rem; flex: none; }
+.tb-profile { display: flex; align-items: center; gap: 0.7rem; }
+.tb-profile .profile-avatar { width: 2.6rem; height: 2.6rem; margin: 0; border-width: 1px; padding: 0.14rem; }
+.tb-profile .profile-name { margin: 0; font-size: 0.9rem; font-weight: 600; }
+.tb-profile .profile-bio { margin: 0.1rem 0 0; font-size: 0.72rem; color: var(--muted); }
+.main { padding: 2rem 2.5rem 3rem; }
+
+/* 大号加粗板块标题（01/02/03） */
+.section-tag { font-family: inherit; font-size: inherit; letter-spacing: normal; text-transform: none; color: var(--fg); }
+.section-tag-index {
+  font-family: ui-monospace, "Cascadia Code", Consolas, Menlo, monospace;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  align-self: center;
+}
+.section-tag-label { font-size: 1.45rem; font-weight: 700; letter-spacing: 0.02em; padding-left: 0.7rem; }
+
+@media (max-width: 900px) {
+  .topbar { padding: 0.9rem 1.25rem; }
+  .topbar-inner { flex-wrap: wrap; gap: 0.8rem; }
+  .tb-nav { order: 3; flex-basis: 100%; }
+  .tb-profile .profile-bio { display: none; }
+  .main { padding: 1.6rem 1.25rem 2.5rem; }
+}
