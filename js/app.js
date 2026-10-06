@@ -38,7 +38,7 @@
       var featured = posts.filter(function (p) { return p.featured; });
       featEl.innerHTML = featured.length
         ? featured.slice(0, 4).map(function (p) {
-            return '<a class="post-card" href="post.html?slug=' + encodeURIComponent(p.slug) + '">' +
+            return '<a class="post-card" href="/post/' + encodeURIComponent(p.slug) + '">' +
               '<div class="card-date">' + escapeHtml(fmtCard(p.date)) + "</div>" +
               '<div class="card-title">' + escapeHtml(p.title) + "</div>" +
               '<p class="card-summary">' + escapeHtml(p.summary || "") + "</p>" +
@@ -54,7 +54,7 @@
         return '<li class="post-item">' +
           '<span class="post-date">' + escapeHtml(fmtRow(p.date)) + "</span>" +
           '<div class="post-info">' +
-          '<p class="post-title"><a href="post.html?slug=' + encodeURIComponent(p.slug) + '">' + escapeHtml(p.title) + "</a>" +
+          '<p class="post-title"><a href="/post/' + encodeURIComponent(p.slug) + '">' + escapeHtml(p.title) + "</a>" +
           (isNew ? '<span class="new-badge">NEW</span>' : "") + "</p>" +
           '<p class="post-summary">' + escapeHtml(p.summary || "") + "</p>" +
           "</div></li>";
