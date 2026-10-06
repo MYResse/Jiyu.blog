@@ -33,7 +33,7 @@
           return '<li class="post-item" data-tags="' + escapeHtml((p.tags || []).join(",")) + '">' +
             '<span class="post-date">' + escapeHtml(String(p.date).slice(5)) + "</span>" +
             '<div class="post-info">' +
-            '<p class="post-title"><a href="post.html?slug=' + encodeURIComponent(p.slug) + '">' + escapeHtml(p.title) + "</a></p>" +
+            '<p class="post-title"><a href="/post/' + encodeURIComponent(p.slug) + '">' + escapeHtml(p.title) + "</a></p>" +
             "</div></li>";
         }).join("") + "</ul>";
       });
