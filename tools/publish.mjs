@@ -175,9 +175,9 @@ function mdToHtml(src) {
 }
 
 function pageHead(title) {
-  return '<!DOCTYPE html>\n<html lang="zh-CN" data-theme="light">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<title>' + escapeHtml(title) + '</title>\n<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n<link rel="preconnect" href="https://cdn.jsdelivr.net">\n<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.css">\n<link rel="stylesheet" href="/css/style.css">\n</head>\n<body>\n<div class="page">\n  <header class="site-header" id="site-header"></header>\n  <main>\n';
+  return '<!DOCTYPE html>\n<html lang="zh-CN" data-theme="light">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<title>' + escapeHtml(title) + '</title>\n<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n<link rel="preconnect" href="https://cdn.jsdelivr.net">\n<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.css">\n<link rel="stylesheet" href="/css/style.css">\n</head>\n<body>\n<div class="layout">\n  <aside class="sidebar" id="site-sidebar"></aside>\n  <main class="main">\n    <div class="main-inner">\n';
 }
-const pageFoot = '  </main>\n  <footer class="site-footer" id="site-footer"></footer>\n</div>\n<script src="/js/common.js"></script>\n</body>\n</html>\n';
+const pageFoot = '      <footer class="site-footer" id="site-footer"></footer>\n    </div>\n  </main>\n</div>\n<script src="/js/common.js"></script>\n</body>\n</html>\n';
 
 function renderPostHtml(entry, prev, next) {
   const title = entry.title || "文章";
